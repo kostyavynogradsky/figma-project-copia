@@ -1,6 +1,21 @@
+
 header {
     background-color: blueviolet;
 }
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
 footer{
     background-color: blueviolet;
 }
@@ -14,3 +29,4 @@ main{
 body{
     background-color: green;
 }
+
